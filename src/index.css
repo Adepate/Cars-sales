@@ -4,10 +4,11 @@
 
 @theme {
   /*  Define Custom Colors */
-  --color-primary: #0070f3;
-  --color-hover: #1d4ed8;
-  --color-footer: #1e3a8a;
-  --color-blacklight: #8d8988;
+  --color-primary: #ff7a00;
+  --color-hover: #ffcdd2;
+  --color-footer: #ff8a80;
+  --color-blacklight: #ef5350;
+  --color-hero-section: #f9cdc4;
 
 
 }
