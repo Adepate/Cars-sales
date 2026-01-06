@@ -13,3 +13,37 @@
 body {
   font-family: "Inter", sans-serif;
 }
+
+
+/* Slider */
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  
+}
+
+.swiper-slide img {
+ 
+}
+
+/* Pagination styling */
+.swiper-pagination {
+  bottom: 40px !important;
+  position: relative !important;
+}
+
+.swiper-pagination-bullet {
+  background: #1e3a8a;
+  opacity: 0.4;
+  width: 10px;
+  height: 10px;
+}
+
+.swiper-pagination-bullet-active {
+  background: #1e3a8a;
+  opacity: 1;
+  transform: scale(1.2);
+}
